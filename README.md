@@ -1,5 +1,5 @@
 # olá mundo
  primeiro repositorio git e git hub
 
-repósitorio criado durante criado na aula ao vivo
+repósitorio criado durante  uma aula ao vivo
   essa linha eu adcionei no github
